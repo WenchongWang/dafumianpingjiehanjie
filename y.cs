@@ -20,3 +20,10 @@ public void test()
 	int b=200;
 	
 }
+
+public void jjj()
+{
+
+
+
+}
